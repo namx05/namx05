@@ -1,4 +1,4 @@
-<h1 align="center"> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Naman this side! </h1>
+<h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Naman this side! </h1>
 
 <h4 align="center"> Web Application Penetration Tester </h2>
 
@@ -7,9 +7,9 @@
 ![Web Application Penetration Tester](https://pbs.twimg.com/profile_banners/723497363122196481/1632228646/1500x500)
 
 
-
-**Skills**: Web Pentesting, Blog, Puzzle (Sudoku)
-
+<h3 align="center" >Skills: Web Pentesting, Blog, Puzzle (Sudoku) </h3>
+<br>
+<br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
 
 ![Profile views](https://gpvc.arturio.dev/namx05)  
