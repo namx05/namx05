@@ -10,12 +10,12 @@
 <h3 align="center" >Skills: Web Pentesting, Blog, Puzzle (Sudoku) </h3>
 <br>
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
 
 ![Profile views](https://gpvc.arturio.dev/namx05)  
 
 - 🔭 I’m currently working on developing my skills 
-- 🌱 I’m currently learning Web Pentesting & Everything 🤣 
+- 🌱 I’m currently learning Web Pentesting & Everything 🤣 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
+
 - 👯 I’m looking to collaborate on Learning & Sharing Knowladge. 
 - 🤔 I’m looking for help with Web Apps  
 - 📫 How to reach me: Instagram/Twitter
