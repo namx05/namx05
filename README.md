@@ -14,7 +14,7 @@
 ![Profile views](https://gpvc.arturio.dev/namx05)  
 
 - 🔭 I’m currently working on developing my skills 
-- 🌱 I’m currently learning Web Pentesting & Everything 🤣 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
+- 🌱 I’m currently learning Everything 🤣 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
 
 - 👯 I’m looking to collaborate on Learning & Sharing Knowledge. 
 - 🤔 I’m looking for help with Web Apps  
