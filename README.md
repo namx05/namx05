@@ -48,6 +48,6 @@
 
 <div align="center">
 
-#### Spread some ❤️ by contributing and starring some of the repositories!
+Spread some ❤️ by contributing and starring some of the repositories!
 
 </div>
