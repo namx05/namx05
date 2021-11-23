@@ -33,8 +33,7 @@
 
 # Achievements:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/namx05.png" alt="TryHackMe">
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/namx05.png" alt="TryHackMe">
 - Sticker Swag from [BugCrowd](https://bugcrowd.com)
 - Appriciaion from [Indian Government](https://nciipc.gov.in/)
 
