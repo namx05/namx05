@@ -21,7 +21,7 @@
 - 📫 How to reach me: Instagram/Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I procrastinate alot XD 
-- 📁 [Resume](https://drive.google.com/file/d/1-D-ZTz56yYTsRTFEPtrthKpJCrark8x_/view?usp=sharing)
+- 📁 [Resume](https://drive.google.com/file/d/1-Smb7sU-OH6ojmTkzG8_dwBPvi-Y8-zf/view?usp=sharing)
 
 <br>
 
