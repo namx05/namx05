@@ -21,7 +21,7 @@
 - 📫 How to reach me: Instagram/Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I procrastinate alot XD 
-- 📁 [Resume]https://drive.google.com/file/d/1V4o7Sjmf5pBZFjpGFfVRUMoYL4OAeIrP/view?usp=sharing)
+- 📁 [Resume](https://drive.google.com/drive/folders/1WIempl-UygU-JeKajYQ-x4rcgsdi1HYf?usp=sharing)
 
 <br>
 
@@ -49,10 +49,10 @@
 
 
 
-
+![If you want to Support me, Click this link :) ](https://www.buymeacoffee.com/namx05) 
 <div align="center">
  
-![If you want to Support me, Click this link :) ](https://www.buymeacoffee.com/namx05) <img src = "https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMi81YjAxYzUxNDFmMGE2ZWYxNmJmMzkzYzdkNmMzOTYxMS5qcGdAMzAwd18wZS53ZWJw&creator=Naman+Jain&is_creating=Indian%20|%20Final%20Year%20|%20Blogger%20|%20Learner%20(Python,%20Pentesting,%20etc.)&design_code=1&design_color=%235F7FFF&slug=namx05">
+<img src = "https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMi81YjAxYzUxNDFmMGE2ZWYxNmJmMzkzYzdkNmMzOTYxMS5qcGdAMzAwd18wZS53ZWJw&creator=Naman+Jain&is_creating=Indian%20|%20Final%20Year%20|%20Blogger%20|%20Learner%20(Python,%20Pentesting,%20etc.)&design_code=1&design_color=%235F7FFF&slug=namx05">
  
 #### Spread some ❤️ by contributing and starring some of the repositories!
 
