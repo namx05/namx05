@@ -1,13 +1,13 @@
 <h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Naman this side! </h1>
 
-<h3 align="center"> A Hacker, Blogger, Part-Time Programmer, etc  </h3>
+<h3 align="center"> Hacker, Blogger, Part-Time Programmer, etc  </h3>
 
 ``` I'm a final year student who is seeking for an opportunity to learn more and more on Web Application Security field.```
 
-![Web Application Penetration Tester](https://pbs.twimg.com/profile_banners/723497363122196481/1632228646/1500x500)
+<!--- ![Web Application Penetration Tester](https://pbs.twimg.com/profile_banners/723497363122196481/1632228646/1500x500) --->
 
 
-<h3 align="center" >Skills: Web Pentesting, Blog, Puzzle (Sudoku) </h3>
+<h3 align="center" >Skills: Web Pentesting, Blog, Python, Puzzle (Sudoku) </h3>
 <br>
 <br>
 
