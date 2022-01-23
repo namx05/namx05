@@ -1,6 +1,6 @@
 <h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Naman this side! </h1>
 
-<h3 align="center"> Web Application Penetration Tester </h3>
+<h3 align="center"> A Hacker, Blogger, Part-Time Programmer, etc  </h3>
 
 ``` I'm a final year student who is seeking for an opportunity to learn more and more on Web Application Security field.```
 
