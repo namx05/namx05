@@ -42,12 +42,11 @@
 <br>
 My Stats 📊: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namx05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namx05&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namx05&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namx05&layout=compact&theme=radical)
 
 <br>
 
-[<img src ='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='BuyMeACoffee' height='30'>](https://www.buymeacoffee.com/namx05) 
+[<img src ='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='BuyMeACoffee' height='30' align='center'>](https://www.buymeacoffee.com/namx05)
 
 
 <div align="center"> 
