@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hacker, Blogger, Part-Time Programmer, etc  </h3>
 
-``` I'm a final year student who is seeking for an opportunity to learn more and more on Web Application Security field.```
+``` I'm a final year student who is seeking for an opportunity to learn more and more on the Offensive Security field.```
 
 <!--- ![Web Application Penetration Tester](https://pbs.twimg.com/profile_banners/723497363122196481/1632228646/1500x500) --->
 
