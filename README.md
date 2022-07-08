@@ -31,11 +31,11 @@
 
 ## HOFs:
  
-<img src="https://logos.bugcrowdusercontent.com/logos/103c/b7e7/b0f516a4/02ac1f6f4bbf78cc23351606b3041ccb_24492255_300x300.jpeg" width="75px">     <img src="https://logos.bugcrowdusercontent.com/logos/1fc4/0cdf/97a13635/0ff5967b93b6f20f30fe76f4f55f19c0_71c30155ec8259fbdfb3aacf1fdef20d_a9996e82cbaf05e968f954ab10d02722_1cd9c5ad6f5d5212ff103ac7ba088069_ostk.jpg" width="75px">
+<img src="https://logos.bugcrowdusercontent.com/logos/103c/b7e7/b0f516a4/02ac1f6f4bbf78cc23351606b3041ccb_24492255_300x300.jpeg" width="75px">     <img src="https://logos.bugcrowdusercontent.com/logos/1fc4/0cdf/97a13635/0ff5967b93b6f20f30fe76f4f55f19c0_71c30155ec8259fbdfb3aacf1fdef20d_a9996e82cbaf05e968f954ab10d02722_1cd9c5ad6f5d5212ff103ac7ba088069_ostk.jpg" width="75px"> 
 
  
 - Sticker Swag from [BugCrowd](https://bugcrowd.com)
-- Appriciaion from [Indian Government](https://nciipc.gov.in/)
+- Appriciation from [Indian Government](https://nciipc.gov.in/)
 
 
 
