@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hacker, Blogger, Part-Time Programmer, etc  </h3>
 
-``` I'm a final year student who is seeking for an opportunity to learn more and more on the Offensive Security field.```
+``` I'm a Post-Graduate student who is seeking for an opportunity to learn more and more on the Offensive Security field.```
 
 <!--- ![Web Application Penetration Tester](https://pbs.twimg.com/profile_banners/723497363122196481/1632228646/1500x500) --->
 
@@ -17,8 +17,8 @@
 - 🌱 I’m currently learning Everything 🤣 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="470" height="220" />
 
 - 👯 I’m looking to collaborate on Learning & Sharing Knowledge. 
-- 🤔 I’m looking for help with Web Apps  
-- 📫 How to reach me: Instagram/Twitter
+- 🤔 I’m looking for help related to Web3 and Smart Comtract Security   
+- 📫 How to reach me: LinkedIn/Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I procrastinate alot XD 
 <!-- - 📁 [Resume](https://drive.google.com/drive/folders/1WIempl-UygU-JeKajYQ-x4rcgsdi1HYf?usp=sharing) -->
