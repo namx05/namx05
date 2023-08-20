@@ -1,7 +1,7 @@
 <h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, nax.eth this side! </h1>
 <h3 align="center"> Auditor, Blogger, etc  </h3>
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/>
 
 ## About me:
 
@@ -37,7 +37,7 @@
 <br>
 
 <div style="text-align: center">
-    <a href="https://www.buymeacoffee.com/namx05" align='center'> <img src ='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='BuyMeACoffee' height='30' ></a>
+    <a href="https://www.buymeacoffee.com/namx05" align='center'> <img src ='https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black' alt='BuyMeACoffee' height='30'     ></a>
 </div>
 
 <div align="center">
