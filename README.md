@@ -16,7 +16,7 @@
 
 # Web3
 
-[Smart Contract Audits](https://github.com/namx05/audits)
+[Smart Contract Audits Findings and Report](https://github.com/namx05/audits)
 
 ## CTFs:
 
