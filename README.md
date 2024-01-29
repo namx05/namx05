@@ -28,7 +28,7 @@
 
 <br>
 
-# Web2 Bug Bounties
+## Web2 Bug Bounties
 
 ### HOFs:
 
