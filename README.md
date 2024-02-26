@@ -8,12 +8,11 @@
 - 🔐 Smart Contract Auditor | Solidity
 - 🏢 Security Researcher @CredShields
 - 🔆 ex - Cyber Secrity Analyst Intern @Esecurify
-- 📫 You can reach me via Discord/Twitter - @namx05
-- [Telegram](https://t.me/namx05)
+- 📫 You can reach me via Discord: @namx05
 
 <br>
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/) [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@namx05) [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/) [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@namx05) [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05) [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
 
 ---
 
