@@ -9,6 +9,7 @@
 - 🏢 Security Researcher @CredShields
 - 🔆 ex - Cyber Secrity Analyst Intern @Esecurify
 - 📫 You can reach me via Discord/Twitter - @namx05
+- [Telegram](https://t.me/namx05)
 
 <br>
 
@@ -16,11 +17,12 @@
 
 ---
 
-Notes in Notion:
+Notion Links:
 
 1. [Audit Projects Template](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
 2. [Understanding Git & Github](https://namx05.notion.site/GIT-GITHUB-72ea42f9f0ce49dc8c376fb1cb33fff7?pvs=73)
 3. [Penetration Testing Report Writing](https://namx05.notion.site/Penetration-Testing-Report-Writing-f490dfd47c324f76bf022c53322f4fc6?pvs=73)
+4. [Cloud Security Automation](https://namx05.notion.site/Cloud-Security-Configuration-Module-efffad5bc98b4b12a88b484a7efe0a1b?pvs=4)
    <br>
 
 ## Web3
