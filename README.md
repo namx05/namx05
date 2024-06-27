@@ -12,7 +12,11 @@
   - 🛠 System Engineer @Flipkart
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
-- 📫 You can reach me via Discord: @namx05
+
+<br>
+
+- 📫 You can reach me on Discord: @namx05
+- 📅 Schedule a call via [Calandly](https://calendly.com/namx05/30min)
 
 <br>
 
