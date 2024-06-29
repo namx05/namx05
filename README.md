@@ -3,7 +3,7 @@
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-# About me:
+## About me:
 
 - 🔐 Smart Contract Auditor | Solidity, Rust
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
@@ -12,8 +12,6 @@
   - 🛠 System Engineer @Flipkart
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
-
-<br>
 
 ## Contacts:
 
@@ -29,10 +27,10 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
 
-# 📚 Audits
+## 📚 Audits
 [Detailed Audit Contest Findings and Public Reports](https://github.com/namx05/audits)
 
-## Overall Stats
+### Overall Stats
 
 |                                            | (C/H/M) | Critical | High | Medium | Low |
 | ------------------------------------------ | ------- | -------- | ---- | ------ | --- |
