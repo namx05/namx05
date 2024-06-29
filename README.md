@@ -3,7 +3,7 @@
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-## About me:
+# About me:
 
 - 🔐 Smart Contract Auditor | Solidity, Rust
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
@@ -15,8 +15,12 @@
 
 <br>
 
-- 📫 You can reach me on Discord: @namx05
-- 📅 Schedule a call via [Calandly](https://calendly.com/namx05/30min)
+## Contacts:
+
+I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05):
+
+- Discord : @namx05
+- 📅 Schedule a call via [Calandly](https://calendly.com/namx05/15)
 
 <br>
 
@@ -25,9 +29,19 @@
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
 
-## 📚 Audit Stats
+# 📚 Audits
+[Detailed Audit Contest Findings and Public Reports](https://github.com/namx05/audits)
 
-[Audit Contest Findings and Public Reports](https://github.com/namx05/audits)
+## Overall Stats
+
+|                                            | (C/H/M) | Critical | High | Medium | Low |
+| ------------------------------------------ | ------- | -------- | ---- | ------ | --- |
+| Solo                                       | 1       | -        | 1    | -      | 5   |
+| Team (Collaborative)                       | 32      | 6        | 7    | 19     | 20  |
+| [CodeArena](https://code4rena.com/@namx05) | 1       | -        | -    | 1      | -   |
+
+> 60% for my audits are on collaborative basis
+
 <br>
 
 ## 🏅 CTFs:
