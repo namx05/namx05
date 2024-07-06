@@ -5,7 +5,7 @@
 
 ## About me:
 
-- 🔐 Smart Contract Auditor | Solidity, Rust
+- 🔐 Smart Contract Auditor: Solidity, Rust
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
 - 🔆Previously worked as
   - 🐱‍💻 Cyber Secrity Analyst Intern @Esecurify
@@ -28,6 +28,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
 
 ## 📚 Audits
+
 [Detailed Audit Contest Findings and Public Reports](https://github.com/namx05/audits)
 
 ### Overall Stats
@@ -48,7 +49,8 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 <br>
 
 ## Notes:
-- [Severity Ranking Guide](Severity_Ranking_Guide.md)
+
+- [Smart Contract Severity Ranking Guide](Severity_Ranking_Guide.md)
 - [Audit Projects Template](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
 - [Understanding Git & Github](https://namx05.notion.site/GIT-GITHUB-72ea42f9f0ce49dc8c376fb1cb33fff7?pvs=73)
 - [Penetration Testing Report Writing](https://namx05.notion.site/Penetration-Testing-Report-Writing-f490dfd47c324f76bf022c53322f4fc6?pvs=73)
