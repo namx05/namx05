@@ -8,7 +8,7 @@
 - 🔐 Smart Contract Auditor: Solidity, Rust
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
 - 🔆Previously worked as
-  - 🐱‍💻 Cyber Secrity Analyst Intern @Esecurify
+  - 💻 Cyber Secrity Analyst Intern @Esecurify
   - 🛠 System Engineer @Flipkart
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
@@ -33,11 +33,11 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 ### Overall Stats
 
-|                                            | (C/H/M) | Critical | High | Medium | Low |
-| ------------------------------------------ | ------- | -------- | ---- | ------ | --- |
-| Solo                                       | 1       | -        | 1    | -      | 5   |
-| Team (Collaborative)                       | 32      | 6        | 7    | 19     | 20  |
-| [CodeArena](https://code4rena.com/@namx05) | 1       | -        | -    | 1      | -   |
+|                                            | (Critical/High) | Medium | Low |
+| ------------------------------------------ | --------------- | ------ | --- |
+| Solo                                       | 1               | -      | 6   |
+| Team (Collaborative)                       | 13              | 19     | 20  |
+| [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
 
 > 60% for my audits are on collaborative basis
 
