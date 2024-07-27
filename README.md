@@ -35,7 +35,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 |                                            | (Critical/High) | Medium | Low |
 | ------------------------------------------ | --------------- | ------ | --- |
-| Solo                                       | 1               | -      | 6   |
+| Solo                                       | 1               | -      | 8   |
 | Team (Collaborative)                       | 13              | 19     | 20  |
 | [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
 
@@ -47,6 +47,14 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 [Quill CTF](https://github.com/namx05/CTF/tree/main/Quill-CTF)
 <br>
+
+## Blogs
+
+- [My Journey and Lessons from the #30dayofweb3 Challenge](https://medium.com/coinmonks/my-journey-and-lessons-from-the-30dayofweb3-challenge-631b23c15d11)
+- [Fungible Token: ERC20](https://medium.com/coinmonks/fungible-tokens-erc-20-2cdd412598b6)
+- [Get your contract compiled using Truffle](https://medium.com/coinmonks/get-your-contract-compiled-using-truffle-391a2c8dccbf)
+- [Web2 Bug Bounty: Story of Chained BAC](https://infosecwriteups.com/my-first-hall-of-fame-with-a-chained-broken-access-control-76f9e2e0e467)
+- [Git & GitHub](https://namx05.medium.com/git-github-20d13bd3c30)
 
 ## Notes:
 
