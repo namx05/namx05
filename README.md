@@ -36,8 +36,8 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 |                                            | (Critical/High) | Medium | Low |
 | ------------------------------------------ | --------------- | ------ | --- |
 | Solo                                       | 1               | -      | 8   |
-| Team                                       | 20              | 26     | 26  |
-| [CodeArena](https://code4rena.com/@namx05) | -               | 1      | -   |
+| Team                                       | 23              | 30     | 38  |
+| [CodeArena](https://code4rena.com/@namx05) | 1               | 1      |     |
 
 > 60% for my audits are on collaborative basis
 
