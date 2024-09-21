@@ -33,11 +33,11 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 ### Overall Stats
 
-|                                            | (Critical/High) | Medium | Low |
-| ------------------------------------------ | --------------- | ------ | --- |
-| Solo                                       | 1               | -      | 8   |
-| Team                                       | 23              | 30     | 38  |
-| [CodeArena](https://code4rena.com/@namx05) | 1               | 1      |     |
+| Type      | Platform                                                                   | (Critical/High) | Medium | Low |
+| --------- | -------------------------------------------------------------------------- | --------------- | ------ | --- |
+| Solo/Team | Firm: CredShields                                                          | 24              | 30     | 46  |
+| Solo      | [CodeArena](https://code4rena.com/@namx05)                                 | 1               | 1      | -   |
+| Solo      | [CodeHawks](https://codehawks.cyfrin.io/profile/clk3yqzs7000wla083twjcgwh) | -               | 1      | -   |
 
 > 60% for my audits are on collaborative basis
 
