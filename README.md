@@ -35,7 +35,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 | Type      | Platform                                                                   | (Critical/High) | Medium | Low |
 | --------- | -------------------------------------------------------------------------- | --------------- | ------ | --- |
-| Solo/Team | Firm: CredShields                                                          | 24              | 30     | 46  |
+| Solo/Team | Firm: CredShields                                                          | 29              | 32     | 63  |
 | Solo      | [CodeArena](https://code4rena.com/@namx05)                                 | 1               | 1      | -   |
 | Solo      | [CodeHawks](https://codehawks.cyfrin.io/profile/clk3yqzs7000wla083twjcgwh) | -               | 1      | -   |
 
