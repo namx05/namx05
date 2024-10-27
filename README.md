@@ -5,13 +5,18 @@
 
 ## About me:
 
-- 🔐 Smart Contract Auditor: Solidity, Rust
+- 🔐 Smart Contract Auditor: Solidity/EVM, CosmWasm, Rust
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
 - 🔆Previously worked as
   - 💻 Cyber Secrity Analyst Intern @Esecurify
   - 🛠 System Engineer @Flipkart
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
+> [!NOTE]
+> Would you like to know about by [Audits](../audits/). 80% for my audits are on collaborative basis.
+<br>
+
+
 
 ## Contacts:
 
@@ -20,33 +25,14 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 - Discord : @namx05
 - 📅 Schedule a call via [Calandly](https://calendly.com/namx05/15)
 
-<br>
-
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@namx05)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
-
-## 📚 Audits
-
-[Detailed Audit Contest Findings and Public Reports](https://github.com/namx05/audits)
-
-### Overall Stats
-
-| Type      | Platform                                                                   | (Critical/High) | Medium | Low |
-| --------- | -------------------------------------------------------------------------- | --------------- | ------ | --- |
-| Solo/Team | Firm: CredShields                                                          | 29              | 32     | 63  |
-| Solo      | [CodeArena](https://code4rena.com/@namx05)                                 | 1               | 1      | -   |
-| Solo      | [CodeHawks](https://codehawks.cyfrin.io/profile/clk3yqzs7000wla083twjcgwh) | -               | 1      | -   |
-
-> 60% for my audits are on collaborative basis
-
 <br>
 
-## 🏅 CTFs:
 
-[Quill CTF](https://github.com/namx05/CTF/tree/main/Quill-CTF)
-<br>
+
 
 ## Blogs
 
