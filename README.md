@@ -14,7 +14,7 @@
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 
 > [!NOTE]
-> Would you like to know about by [Audits](../audits/). 80% for my audits are on collaborative basis.
+> 80% for my firm audits are on collaborative basis. You can check the audits [here](../audits/).
 
 ## Contacts:
 
