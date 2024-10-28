@@ -14,7 +14,7 @@
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 
 > [!NOTE]
-> 80% for my firm audits are on collaborative basis. You can check the audits [here](../audits/).
+> 80% for my firm audits are on collaborative basis. You can check the audits [here](https://github.com/namx05/audits).
 
 ## Contacts:
 
