@@ -14,8 +14,8 @@
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 
 > [!NOTE]
-> 80% for my firm audits are on collaborative basis. 
-> 
+> 80% for my firm audits are on collaborative basis.
+>
 > You can check the audits [here](https://github.com/namx05/audits).
 
 ## Contacts:
@@ -41,7 +41,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 
 ## Notes:
 
-- [Smart Contract Severity Ranking Guide](Severity_Ranking_Guide.md)
+- [Smart Contract Severity Ranking Guide](https://github.com/namx05/audits/Severity_Ranking_Guide.md)
 - [Audit Projects Template](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
 - [Understanding Git & Github](https://namx05.notion.site/GIT-GITHUB-72ea42f9f0ce49dc8c376fb1cb33fff7?pvs=73)
 - [Penetration Testing Report Writing](https://namx05.notion.site/Penetration-Testing-Report-Writing-f490dfd47c324f76bf022c53322f4fc6?pvs=73)
