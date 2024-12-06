@@ -14,9 +14,19 @@
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 
 > [!NOTE]
-> 80% for my firm audits are on collaborative basis.
->
-> You can check the audits [here](https://github.com/namx05/audits).
+> Audit portfolio can be found [here](https://github.com/namx05/audits)
+
+## Interesing Audit Reports
+
+|     |                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- |
+|     | [Plutope ](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             |
+|     | [LogX ](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
+|     | [Rex Protocol ](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                   |
+|     | [aUSD: Stable Jack ](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                   |
+|     | [Wasset ](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               |
+
+80% for my firm audits are on collaborative basis.
 
 ## Contacts:
 
