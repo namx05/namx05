@@ -13,12 +13,12 @@
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 
-
 ## Audits
+
 Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
 Some of the interesting reports are mentioned below (:
 
-|    Interesing Audit Reports                                                                                                                             |
+| Interesing Audit Reports                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | [Plutope ](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             |
 | [LogX ](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) |
@@ -42,14 +42,6 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
 <br>
 
-## Blogs
-
-- [My Journey and Lessons from the #30dayofweb3 Challenge](https://medium.com/coinmonks/my-journey-and-lessons-from-the-30dayofweb3-challenge-631b23c15d11)
-- [Fungible Token: ERC20](https://medium.com/coinmonks/fungible-tokens-erc-20-2cdd412598b6)
-- [Get your contract compiled using Truffle](https://medium.com/coinmonks/get-your-contract-compiled-using-truffle-391a2c8dccbf)
-- [Web2 Bug Bounty: Story of Chained BAC](https://infosecwriteups.com/my-first-hall-of-fame-with-a-chained-broken-access-control-76f9e2e0e467)
-- [Git & GitHub](https://namx05.medium.com/git-github-20d13bd3c30)
-
 ## Notes:
 
 - [Smart Contract Severity Ranking Guide](https://github.com/namx05/audits/blob/main/Severity_Ranking_Guide.md)
@@ -57,6 +49,14 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 - [Understanding Git & Github](https://namx05.notion.site/GIT-GITHUB-72ea42f9f0ce49dc8c376fb1cb33fff7?pvs=73)
 - [Penetration Testing Report Writing](https://namx05.notion.site/Penetration-Testing-Report-Writing-f490dfd47c324f76bf022c53322f4fc6?pvs=73)
 - [Cloud Security Automation](https://namx05.notion.site/Cloud-Security-Configuration-Module-efffad5bc98b4b12a88b484a7efe0a1b?pvs=4)
+
+## Blogs
+
+- [My Journey and Lessons from the #30dayofweb3 Challenge](https://medium.com/coinmonks/my-journey-and-lessons-from-the-30dayofweb3-challenge-631b23c15d11)
+- [Fungible Token: ERC20](https://medium.com/coinmonks/fungible-tokens-erc-20-2cdd412598b6)
+- [Get your contract compiled using Truffle](https://medium.com/coinmonks/get-your-contract-compiled-using-truffle-391a2c8dccbf)
+- [Web2 Bug Bounty: Story of Chained BAC](https://infosecwriteups.com/my-first-hall-of-fame-with-a-chained-broken-access-control-76f9e2e0e467)
+- [Git & GitHub](https://namx05.medium.com/git-github-20d13bd3c30)
 
 ## Projects
 
