@@ -15,7 +15,8 @@
 
 
 ## Audits
-Audit portfolio can be found [here](https://github.com/namx05/audits)
+Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
+Some of the interesting reports are mentioned below (:
 
 |    Interesing Audit Reports                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------- |
