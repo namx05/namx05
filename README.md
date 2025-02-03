@@ -5,13 +5,14 @@
 
 ## About me:
 
-- 🔐 Smart Contract Auditor: Solidity/EVM, CosmWasm, Rust
+- 🔐 Smart Contract Auditor: Solidity(EVM), Rust(CosmWasm, Rust).
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
 - 🔆Previously worked as
   - 💻 Cyber Secrity Analyst Intern @Esecurify
   - 🛠 System Engineer @Flipkart
 - 📰 Blogs are at [@Medium](https://namx05.medium.com)
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
+- You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
 
 ## Audits
 
@@ -20,16 +21,16 @@
 
 Some of the interesting reports are mentioned below (:
 
-| Interesing Audit Reports                                                                                                       | Tech           |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-|                                                                                                                                |                |
-| [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)            | 🦀 CosmWasm    |
-| [AllinGames: lottery](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)      | 🦀 CosmWasm    |
-| [Plutope](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             | ♦ Solidity/EVM |
-| [LogX](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) | ♦ Solidity/EVM |
-| [Rex Protocol](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                   | ♦ Solidity/EVM |
-| [aUSD: Stable Jack](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                   | ♦ Solidity/EVM |
-| [Wasset](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               | ♦ Solidity/EVM |
+| Interesing Audit Reports                                                                                                       | Tech             |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
+|                                                                                                                                |                  |
+| [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)            | 🦀 Rust-CosmWasm |
+| [AllinGames: lottery](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)      | 🦀 Rust-CosmWasm |
+| [Plutope](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             | ♦ Solidity-EVM   |
+| [LogX](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) | ♦ Solidity-EVM   |
+| [Rex Protocol](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                   | ♦ Solidity-EVM   |
+| [aUSD: Stable Jack](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                   | ♦ Solidity-EVM   |
+| [Wasset](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               | ♦ Solidity-EVM   |
 
 > [!NOTE]
 > 80% for my firm audits are on collaborative basis.
