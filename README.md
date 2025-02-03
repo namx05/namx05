@@ -5,7 +5,7 @@
 
 ## About me:
 
-- 🔐 Smart Contract Auditor: Solidity(EVM), Rust(CosmWasm, Rust).
+- 🔐 Smart Contract Auditor: Solidity(EVM), Rust(CosmWasm, Solana).
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
 - 🔆Previously worked as
   - 💻 Cyber Secrity Analyst Intern @Esecurify
@@ -21,7 +21,7 @@
 
 Some of the interesting reports are mentioned below (:
 
-| Interesing Audit Reports                                                                                                       | Tech             |
+| Interesing Audit Reports                                                                                                       | Lang-Ecosystem   |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
 |                                                                                                                                |                  |
 | [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)            | 🦀 Rust-CosmWasm |
