@@ -21,16 +21,16 @@
 
 Some of the interesting reports are mentioned below (:
 
-| Interesing Audit Reports                                                                                                       | Lang-Ecosystem   |
-| ------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
-|                                                                                                                                |                  |
-| [AllinGames: bank](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Bank_Final_Audit_Report.pdf)            | 🦀 Rust-CosmWasm |
-| [AllinGames: lottery](https://github.com/Credshields/audit-reports/blob/master/AllInGames_Lottery_Final_Audit_Report.pdf)      | 🦀 Rust-CosmWasm |
-| [Plutope](https://github.com/Credshields/audit-reports/blob/master/Plutope_Final_Audit_Report.pdf)                             | ♦ Solidity-EVM   |
-| [LogX](https://github.com/Credshields/audit-reports/blob/4d34781e41a23c270314fac5aced61fc24370f4c/LogX_Token_Final_Report.pdf) | ♦ Solidity-EVM   |
-| [Rex Protocol](https://github.com/Credshields/audit-reports/blob/master/Rex_Exchange_Final_Audit_Report.pdf)                   | ♦ Solidity-EVM   |
-| [aUSD: Stable Jack](https://github.com/Credshields/audit-reports/blob/master/aUSD_SC_Final_Audit_Report.pdf)                   | ♦ Solidity-EVM   |
-| [Wasset](https://github.com/Credshields/audit-reports/blob/master/Wasset_Final_Audit_Report.pdf)                               | ♦ Solidity-EVM   |
+| Interesing Audit Reports                                                           | Lang-Ecosystem   |
+| ---------------------------------------------------------------------------------- | ---------------- |
+|                                                                                    |                  |
+| [AllinGames: bank](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)       | 🦀 Rust-CosmWasm |
+| [AllinGames: lottery](audit-reports/pdf/AllInGames_Lottery_Final_Audit_Report.pdf) | 🦀 Rust-CosmWasm |
+| [Plutope](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                        | ♦ Solidity-EVM   |
+| [LogX](audit-reports/pdf/LogX_Token_Final_Report.pdf)                              | ♦ Solidity-EVM   |
+| [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
+| [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
+| [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
 
 > [!NOTE]
 > 80% for my firm audits are on collaborative basis.
@@ -51,7 +51,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 ## Notes:
 
 - [Smart Contract Severity Ranking Guide](https://github.com/namx05/audits/blob/main/audit-reports/Severity_Ranking_Guide.md)
-- [Audit Projects Template](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
+- [Audit Projects Template for Notion](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
 - [Understanding Git & Github](https://namx05.notion.site/GIT-GITHUB-72ea42f9f0ce49dc8c376fb1cb33fff7?pvs=73)
 - [Penetration Testing Report Writing](https://namx05.notion.site/Penetration-Testing-Report-Writing-f490dfd47c324f76bf022c53322f4fc6?pvs=73)
 - [Cloud Security Automation](https://namx05.notion.site/Cloud-Security-Configuration-Module-efffad5bc98b4b12a88b484a7efe0a1b?pvs=4)
