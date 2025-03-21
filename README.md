@@ -32,9 +32,6 @@ Some of the interesting reports are mentioned below (:
 | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
 | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
 
-> [!NOTE]
-> 80% for my firm audits are on collaborative basis.
-
 ## Contacts:
 
 I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05):
