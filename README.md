@@ -14,7 +14,7 @@
 - 🙂 Non Technical: Loves to read Books, Solve Puzzles, Travel, etc
 - You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
 
-## Audits
+## Few Interesting Audit Reports
 
 > [!TIP]
 > Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
