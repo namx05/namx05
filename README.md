@@ -3,7 +3,14 @@
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-## About me:
+## About:
+
+I'm an independent security researcher specialized in Solidity and, more recently, Rust audits. My current areas of focus are VMs and cross-chain protocols.
+
+For private audits or security consulting, please reach out to me on:
+
+- Twitter: [@namx05](<[https](https://x.com/namx05)>)
+- Telegram: [@namx05](https://t.me/namx05)
 
 - 🔐 Smart Contract Auditor: Solidity(EVM), Rust(CosmWasm, Solana).
 - 🏢 Security Researcher [@CredShields](https://credshields.com)
@@ -32,7 +39,7 @@ Some of the interesting reports are mentioned below (:
 | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
 | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
 
-## Contacts:
+<!-- ## Contacts:
 
 I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05):
 
@@ -43,7 +50,7 @@ I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@namx05)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
 [<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
-<br>
+<br> -->
 
 ## Notes:
 
