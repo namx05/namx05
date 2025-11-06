@@ -1,19 +1,30 @@
-<h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> nax.eth this side! </h1>
+<h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> naman this side! </h1>
 <!-- <h3 align="center"> Auditor, Pentester, Blogger, etc  </h3> -->
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
+
 ## About:
 
-I'm an independent security researcher specialized in Solidity and, more recently, Rust audits. My current areas of focus are VMs and cross-chain protocols.
+<img src="../audits/icons/namx05.jpg" align="center" width=15 height=15> naman is a professional smart contract security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
 
-- 🏢 Security Researcher [@CredShields](https://credshields.com)
-- You can find my CV [here](https://docs.google.com/document/d/1bXGsFB4y142gvz49MWaSB97BtRmleL4GBt4ydm9yVDM/edit?tab=t.0).
+naman has successfully conducted over **150+** audits in which **25+** was **Rust audits 🦀** and found over **420+ Critical/High** severity issues along with Medium/Low/Informationls.
 
-For private audits or security consulting, please reach out to me on:
+He is trusted by: <img src="../audits/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="../audits/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="../audits/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="../audits/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="../audits/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="../audits/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="../audits/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="../audits/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
 
-- Twitter: [@namx05](<[https](https://x.com/namx05)>)
+For private audits or security consulting, please reach out to me on via:
+
+- Twitter: [@namx05](https://x.com/namx05)
 - Telegram: [@namx05](https://t.me/namx05)
+
+---
+
+# Summary
+
+|   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
+| :------------: | :---------: | :-----------------------------: | :-------------------------------: |
+| 420+ Crit/High | 280+ Medium |                8                |                142                |
+
 
 ## Few Interesting Audit Reports
 
@@ -33,18 +44,6 @@ Some of the interesting reports are mentioned below (:
 | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
 | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
 
-<!-- ## Contacts:
-
-I am available for Smart Contract Sercuity Audits. You can reach me at (@namx05):
-
-- Discord : @namx05
-- 📅 Schedule a call via [Calandly](https://calendly.com/namx05/15)
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/)
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@namx05)
-[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)
-[<img src='https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white' alt='Telegram' height='30'>](https://t.me/namx05)
-<br> -->
 
 ## Notes:
 
