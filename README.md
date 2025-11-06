@@ -3,14 +3,13 @@
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-
 ## About:
 
-<img src="../audits/icons/namx05.jpg" align="center" width=15 height=15> naman is a professional smart contract security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
+<img src="https://github.com/namx05/audits/icons/namx05.jpg" align="center" width=15 height=15> naman is a professional smart contract security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
 
 naman has successfully conducted over **150+** audits in which **25+** was **Rust audits 🦀** and found over **420+ Critical/High** severity issues along with Medium/Low/Informationls.
 
-He is trusted by: <img src="../audits/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="../audits/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="../audits/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="../audits/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="../audits/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="../audits/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="../audits/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="../audits/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
+He is trusted by: <img src="https://github.com/namx05/audits/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
 
 For private audits or security consulting, please reach out to me on via:
 
@@ -24,7 +23,6 @@ For private audits or security consulting, please reach out to me on via:
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
 | :------------: | :---------: | :-----------------------------: | :-------------------------------: |
 | 420+ Crit/High | 280+ Medium |                8                |                142                |
-
 
 ## Few Interesting Audit Reports
 
@@ -43,7 +41,6 @@ Some of the interesting reports are mentioned below (:
 | [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
 | [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
 | [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
-
 
 ## Notes:
 
