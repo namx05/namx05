@@ -24,23 +24,8 @@ For private audits or security consulting, please reach out to me on via:
 | :------------: | :---------: | :-----------------------------: | :-------------------------------: |
 | 420+ Crit/High | 280+ Medium |                8                |                142                |
 
-## Few Interesting Audit Reports
+Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
 
-> [!TIP]
-> Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
-
-Some of the interesting reports are mentioned below (:
-
-| Interesing Audit Reports                                                           | Lang-Ecosystem   |
-| ---------------------------------------------------------------------------------- | ---------------- |
-|                                                                                    |                  |
-| [AllinGames: bank](audit-reports/pdf/AllInGames_Bank_Final_Audit_Report.pdf)       | 🦀 Rust-CosmWasm |
-| [AllinGames: lottery](audit-reports/pdf/AllInGames_Lottery_Final_Audit_Report.pdf) | 🦀 Rust-CosmWasm |
-| [Plutope](audit-reports/pdf/Plutope_Final_Audit_Report.pdf)                        | ♦ Solidity-EVM   |
-| [LogX](audit-reports/pdf/LogX_Token_Final_Report.pdf)                              | ♦ Solidity-EVM   |
-| [Rex Protocol](audit-reports/pdf/Rex_Exchange_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
-| [aUSD: Stable Jack](audit-reports/pdf/aUSD_SC_Final_Audit_Report.pdf)              | ♦ Solidity-EVM   |
-| [Wasset](audit-reports/pdf/Wasset_Final_Audit_Report.pdf)                          | ♦ Solidity-EVM   |
 
 ## Notes:
 
