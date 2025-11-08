@@ -1,16 +1,15 @@
-<h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> naman this side! </h1>
+<!-- <h1 align="center"> Hola gente <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> naman this side! </h1> -->
 <!-- <h3 align="center"> Auditor, Pentester, Blogger, etc  </h3> -->
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-## About:
+## About naman <img src="https://github.com/namx05/audits/blob/main/icons/namx05.jpg" align="center" width=15 height=15>:
 
-<img src="https://github.com/namx05/audits/blob/main/icons/namx05.jpg" align="center" width=15 height=15> naman is a professional smart contract security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
+- I am an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
+- With over 150+ reviews conducted across public, private, and firm engagements in which **25+** was **Rust audits 🦀**, I have audited a diverse range of DeFi protocols, including DEXs, Amm, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
+- He is trusted by: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
 
-naman has successfully conducted over **150+** audits in which **25+** was **Rust audits 🦀** and found over **420+ Critical/High** severity issues along with Medium/Low/Informationls.
-
-He is trusted by: <img src="https://github.com/namx05/audits/blob/main/icons/cyfrin.jpg" align="center" width=15 height=15> Cyfrin, <img src="https://github.com/namx05/audits/blob/main/icons/guardianaudits.jpg" align="center" width=15 height=15> Guardian, <img src="https://github.com/namx05/audits/blob/main/icons/credshields.png" align="center" width=15 height=15> Credshields , <img src="https://github.com/namx05/audits/blob/main/icons/codespect.jpg" align="center" width=15 height=15> CODESPECT , <img src="https://github.com/namx05/audits/blob/main/icons/burrasec.jpg" align="center" width=15 height=15> BurraSec, <img src="https://github.com/namx05/audits/blob/main/icons/shieldifysec.jpg" align="center" width=15 height=15> Shieldify, <img src="https://github.com/namx05/audits/blob/main/icons/hashlock.jpg" align="center" width=15 height=15> Hashlock, and <img src="https://github.com/namx05/audits/blob/main/icons/safeedges.jpg" align="center" width=15 height=15> Safe Edges.
-
+<br>
 For private audits or security consulting, please reach out to me on via:
 
 - Twitter: [@namx05](https://x.com/namx05)
@@ -20,12 +19,11 @@ For private audits or security consulting, please reach out to me on via:
 
 # Summary
 
-|   Crit/High    | Medium risk | [Public Audits](#public-audits) | [Private Audits](#private-audits) |
-| :------------: | :---------: | :-----------------------------: | :-------------------------------: |
-| 420+ Crit/High | 280+ Medium |                8                |                142                |
+|   Crit/High    | Medium risk | Public Audits | Private Audits |
+| :------------: | :---------: | :-----------: | :------------: |
+| 420+ Crit/High | 280+ Medium |       8       |      147       |
 
 Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
-
 
 ## Notes:
 
