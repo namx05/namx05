@@ -3,7 +3,7 @@
 
 <!-- <img align="center" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800" height="200"/> -->
 
-## About naman <img src="https://github.com/namx05/audits/blob/main/icons/namx05.jpg" align="center" width=15 height=15>:
+# About naman:
 
 - I am an independent security researcher with focused expertise in auditing **Solidity**, **Rust** based contracts and decentralized infrastructure across leading blockchain ecosystems, including **EVM**, **Solana**, **Cosmos** **(CosmWasm)**.
 - With over 150+ reviews conducted across public, private, and firm engagements in which **25+** was **Rust audits 🦀**, I have audited a diverse range of DeFi protocols, including DEXs, Amm, GameFi, TradeFi, Account Abstraction, DeFi, order books, cross-chain, bridges, Launchpads and bonding curves.
@@ -25,7 +25,7 @@ For private audits or security consulting, please reach out to me on via:
 
 Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
 
-## Notes:
+# Notes:
 
 - [Smart Contract Severity Ranking Guide](https://github.com/namx05/audits/blob/main/audit-reports/Severity_Ranking_Guide.md)
 - [Audit Projects Template for Notion](https://namx05.notion.site/708570730e8b4409b74c3b655d491017?v=2ec662f2a4a04549adc67beb0b549299&pvs=73)
