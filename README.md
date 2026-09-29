@@ -21,7 +21,7 @@ For private audits or security consulting, please reach out to me on via:
 
 |   Crit/High    | Medium risk | [Public Audits](#public-audits) | Private Audits |
 | :------------: | :---------: | :-----------------------------: | :------------: |
-| 400+ Crit/High | 441+ Medium |               11                |      180+      |
+| 400+ Crit/High | 450+ Medium |               11                |      180+      |
 
 Check out the audit portfolio [here](https://github.com/namx05/audits). <br>
 
